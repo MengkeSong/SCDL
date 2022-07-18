@@ -24,7 +24,7 @@ git clone https://github.com/MengkeSong/SCDL.git
 cd SCDL/
 
 2.Download the datasets
-Download the following datasets and unzip them into your_data folder. All datasets and labeled Audio-visual Consistency Degree can be downloaded at this [data link](https://pan.baidu.com/s/15trBT9Dt9_sGLG8PFH4xkg "data link") 45qq. Then put them under the following directory:
+Download the following datasets and unzip them into your_data folder. All datasets and labeled Audio-visual Consistency Degree can be downloaded at this [data link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link") (r5ca). Then put them under the following directory:
 ```
 -video_frame/
   -AVAD/
