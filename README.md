@@ -2,6 +2,8 @@
 ## Description 
 This is the source code for ''A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!''
 
+Please contact at "songsook@163.com" if you have any question about this code.
+
 ![alt](https://github.com/MengkeSong/SCDL/blob/main/img/review%20architecture.png)
 <p align="center">Figure 1: The structure of our review.</p>
 
