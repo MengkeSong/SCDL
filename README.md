@@ -28,7 +28,7 @@ cd SCDL/
 
 2.Download the datasets
 
-**Google Drive** [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link").
+**Google Drive** [link]([https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A](https://drive.google.com/drive/folders/1Zgfe9pr4sryJrWGlIYw-sl4u2_pn3gre?usp=sharing) "data link").
 
 **Baidu Netdisk** [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link") (r5ca).
 
@@ -78,7 +78,8 @@ Then put them under the following directory:
 ```
 
 3.**Training & Testing**
-To train and test, you can modify the used codes by yourself referring to the technical details mentioned in our manuscript. The used codes are provided in the zip files --- [STANet](https://github.com/guotaowang/STANet), [STAViS](https://github.com/atsiami/STAViS) and [AViNet](https://github.com/samyak0210/ViNet).
+
+To train and test, you can modify the used original codes by yourself referring to the technical details mentioned in our manuscript. The used original codes are provided in the zip files --- [STANet](https://github.com/guotaowang/STANet), [STAViS](https://github.com/atsiami/STAViS) and [AViNet](https://github.com/samyak0210/ViNet).
 
 ### Results
 ![alt](https://github.com/MengkeSong/SCDL/blob/main/img/quantititive%20results.png)
