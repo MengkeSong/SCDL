@@ -1,1 +1,3 @@
-## These are the source codes of of STANet, STAViS and AViNet, not the original code of this paper. The original code of this paper will be publicaly available as soon as it has been recomposed.
+These are the source codes of of STANet, STAViS and AViNet, not the original code of this paper. The original code of this paper will be publicaly available as soon as it has been recomposed.
+To quickly train and test first, you can modify the used source codes of STANet, STAViS and AViNet by yourself referring to the technical details mentioned in our manuscript. 
+The used source codes of STANet, STAViS and AViNet are provided in the zip files within /source codes/.
