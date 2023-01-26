@@ -79,9 +79,10 @@ Then put them under the following directory:
 
 3.**Training & Testing**
 
-Our method is based on the source codes of [STANet](https://github.com/guotaowang/STANet), [STAViS](https://github.com/atsiami/STAViS) and [AViNet](https://github.com/samyak0210/ViNet).
+Our method is based on the source codes of [STANet](https://github.com/guotaowang/STANet), [STAViS](https://github.com/atsiami/STAViS) and [AViNet](https://github.com/samyak0210/ViNet). The original code of this paper will be publicaly available as soon as it has been recomposed.
 
-To train and test, you can modify the used source codes of STANet, STAViS and AViNet by yourself referring to the technical details mentioned in our manuscript. The used source codes of STANet, STAViS and AViNet are provided in the zip files within /source codes/.
+To quickly train and test first, you can modify the used source codes of STANet, STAViS and AViNet by yourself referring to the technical details mentioned in our manuscript. The used source codes of STANet, STAViS and AViNet are provided in the zip files within /source codes/.
+
 
 ### Results
 ![alt](https://github.com/MengkeSong/SCDL/blob/main/img/quantititive%20results.png)
