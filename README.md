@@ -28,7 +28,7 @@ cd SCDL/
 
 2.Download the datasets
 
-**Google Drive** [link1](https://drive.google.com/drive/folders/1Zgfe9pr4sryJrWGlIYw-sl4u2_pn3gre?usp=sharing "data link")(annotation, audio, fold list, and av gt label) and [link2](https://drive.google.com/drive/folders/1vWNoOF0hul1ASumKAG2EaF29bMIf0ohO?usp=share_link "data link")(video frame).
+**Google Drive** [link1](https://drive.google.com/drive/folders/1Zgfe9pr4sryJrWGlIYw-sl4u2_pn3gre?usp=sharing "data link") (annotation, audio, fold list, and av gt label) and [link2](https://drive.google.com/drive/folders/1vWNoOF0hul1ASumKAG2EaF29bMIf0ohO?usp=share_link "data link") (video frame).
 
 **Baidu Netdisk** [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link") (r5ca).
 
