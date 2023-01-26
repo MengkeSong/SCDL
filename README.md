@@ -3,7 +3,7 @@
 This is the source code for ''A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!''
  [paper link](https://ieeexplore.ieee.org/document/9874810 "paper link")
  
-Please contact at "songsook@163.com" if you have any question about the paper and the repository.
+Please contact at "**songsook@163.com**" if you have any question about the paper and the repository.
 
 ![alt](https://github.com/MengkeSong/SCDL/blob/main/img/review%20architecture.png)
 <p align="center">Figure 1: The structure of our review.</p>
@@ -27,8 +27,11 @@ git clone https://github.com/MengkeSong/SCDL.git
 cd SCDL/
 
 2.Download the datasets
-Download the following datasets and unzip them into your_data folder. All datasets and labeled Audio-visual Consistency Degree can be downloaded at this Baidu Netdisk
- [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link") (r5ca). Then put them under the following directory:
+Google Drive [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link").
+Baidu Netdisk [link](https://pan.baidu.com/s/1eqesDvK-7KUKL2VBshct6A "data link") (r5ca).
+
+Download the following datasets and unzip them into your_data folder. All datasets and labeled Audio-visual Consistency Degree can be downloaded at the Baidu Netdisk or Google Drive. 
+Then put them under the following directory:
 ```
 -video_frame/
   -AVAD/
