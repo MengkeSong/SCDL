@@ -1,8 +1,9 @@
 # SCDL
 ## Description 
 This is the source code for ''A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!''
-
-Please contact at "songsook@163.com" if you have any question about this code.
+ [paper link](https://ieeexplore.ieee.org/document/9874810 "paper link")
+ 
+Please contact at "songsook@163.com" if you have any question about the paper and the repository.
 
 ![alt](https://github.com/MengkeSong/SCDL/blob/main/img/review%20architecture.png)
 <p align="center">Figure 1: The structure of our review.</p>
@@ -71,7 +72,7 @@ Download the following datasets and unzip them into your_data folder. All datase
 ```
 
 3.Training & Testing
-Unzip the zip files and run training files & testing files.
+To train and test, you can modify the used codes by yourself referring to the technical details mentioned in our manuscript. The used codes are provided in the zip files --- [STANet](https://github.com/guotaowang/STANet), [STAViS](https://github.com/atsiami/STAViS) and [AViNet](https://github.com/samyak0210/ViNet).
 
 ### Results
 ![alt](https://github.com/MengkeSong/SCDL/blob/main/img/quantititive%20results.png)
