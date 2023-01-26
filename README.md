@@ -3,7 +3,7 @@
 This is the source code for ''A Comprehensive Survey on Video Saliency Detection with Auditory Information: the Audio-visual Consistency Perceptual is the Key!''
  [paper link](https://ieeexplore.ieee.org/document/9874810 ("paper link"))
  
-Please contact at "**songsook@163.com**" if you have any question about the paper and the repository.
+**Please contact at "songsook@163.com" if you have any question about the paper and the repository**.
 
 ![alt](https://github.com/MengkeSong/SCDL/blob/main/img/review%20architecture.png)
 <p align="center">Figure 1: The structure of our review.</p>
